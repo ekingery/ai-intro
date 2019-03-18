@@ -5,5 +5,4 @@ This repo contains code related to the [AI: What Even _Is_ That Thing!?](https:/
 [Fill out the News Classification Form](https://goo.gl/forms/nLcf2ol0o5dAJxGw1)
 to help generate training data. 
 
-Technical details can all be found in the [NewsClassifier.ipynb
-notebook](./NewsClassifier.ipynb).
+Code to create a news classifier code can be found in the [NewsClassifier.ipynb notebook](./NewsClassifier.ipynb).

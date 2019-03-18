@@ -1,11 +1,410 @@
 Timestamp,URL,Label
-3/16/2019 10:25:25,https://www.nytimes.com/2019/03/15/business/pursuit-tech-jobs-training.html,Science and Technology
-3/16/2019 10:25:54,https://www.nytimes.com/2019/03/15/technology/tech-regulation-antitrust.html,Science and Technology
-3/16/2019 10:26:30,https://www.nytimes.com/2019/03/15/sports/a-star-princeton-player-has-a-sense-of-where-shell-be-the-wnba.html,Sports
-3/16/2019 10:27:11,https://www.nytimes.com/2019/03/11/sports/yankees-statistics-analytics.html,Sports
-3/16/2019 10:27:41,https://www.nytimes.com/2019/03/16/us/politics/beto-bernie-sanders-age.html,Politics
-3/16/2019 10:28:05,https://www.nytimes.com/2019/03/15/us/politics/mike-pence-democrats-2020.html,Politics
-3/16/2019 10:29:23,https://www.nytimes.com/2019/03/12/climate/costa-rica-climate-change.html,Nature and the Environment
-3/16/2019 10:29:50,https://www.nytimes.com/2019/03/15/climate/climate-school-strikes.html,Nature and the Environment
-3/16/2019 10:35:13,https://www.nytimes.com/2019/03/13/arts/dance/temptations-sergio-trujillo.html,Arts & Entertainment
-3/16/2019 10:36:39,https://www.nytimes.com/2019/03/06/arts/music/solange-when-i-get-home-review.html,Arts & Entertainment
+2019-03-18, https://www.nytimes.com/2019/03/15/business/pursuit-tech-jobs-training.html,Science and Technology
+2019-03-18, https://www.nytimes.com/2019/03/15/technology/tech-regulation-antitrust.html,Science and Technology
+2019-03-18, https://www.nytimes.com/2019/03/15/sports/a-star-princeton-player-has-a-sense-of-where-shell-be-the-wnba.html,Sports
+2019-03-18, https://www.nytimes.com/2019/03/11/sports/yankees-statistics-analytics.html,Sports
+2019-03-18, https://www.nytimes.com/2019/03/16/us/politics/beto-bernie-sanders-age.html,Politics
+2019-03-18, https://www.nytimes.com/2019/03/15/us/politics/mike-pence-democrats-2020.html,Politics
+2019-03-18, https://www.nytimes.com/2019/03/12/climate/costa-rica-climate-change.html,Nature and the Environment
+2019-03-18, https://www.nytimes.com/2019/03/15/climate/climate-school-strikes.html,Nature and the Environment
+2019-03-18, https://www.nytimes.com/2019/03/13/arts/dance/temptations-sergio-trujillo.html,Arts and Entertainment
+2019-03-18, https://www.nytimes.com/2019/03/06/arts/music/solange-when-i-get-home-review.html,Arts and Entertainment
+2019-03-18, https://pix11.com/2019/03/08/jan-michael-vincent-star-of-airwolf-dead-at-74/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/02/23/never-forget-david-bowie-masterminded-the-biggest-art-hoax-in-history/, Arts and Entertainment
+2019-03-18, https://pix11.com/2019/03/04/luke-perry-star-of-beverly-hills-90210-dead-at-52/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/14/hallmark-cutting-ties-with-lori-loughlin-after-arrest-in-college-admissions-scam-case/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/01/let-it-be-shows-the-dark-side-of-the-beatles-it-doesnt-need-an-upbeat-revision/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/01/katherine-helmond-star-of-whos-the-boss-everybody-loves-raymond-dies-at-89/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/08/marshall-brodien-who-played-wizzo-the-wizard-on-the-bozo-show-has-died/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/04/tmz-actor-luke-perry-52-passes-away-after-massive-stroke/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/14/hallmark-cuts-ties-with-lori-loughlin-following-arrest/, Arts and Entertainment
+2019-03-18, https://www.wthr.com/article/90210-and-riverdale-actor-luke-perry-dead-52, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/14/ravinia-festival-announces-2019-lineup/, Arts and Entertainment
+2019-03-18, https://www.wnem.com/news/want-to-be-in-a-movie-here-is-your-chance/article_00193fd8-40d5-11e9-b5af-33170794d153.html, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/03/letting-go-of-michael-jackson-leaving-neverland-wakes-us-from-a-false-dream/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/04/the-7-best-movies-new-to-netflix-in-march-2019_partner/, Arts and Entertainment
+2019-03-18, http://wgntv.com/2018/06/25/richard-old-man-harrison-of-pawn-stars-dies-at-77/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/02/auditions-for-burnt-a-new-tv-series-set-in-cleveland-being-held-this-month/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/07/after-neverland-r-kellys-cbs-meltdown-and-the-insidious-patterns-we-refuse-to-see/, Arts and Entertainment
+2019-03-18, https://pix11.com/2019/03/01/actress-katherine-helmond-dead-at-89/, Arts and Entertainment
+2019-03-18, https://fox2now.com/2019/03/04/tmz-luke-perry-dies-at-52-while-recovering-from-massive-stroke/, Arts and Entertainment
+2019-03-18, https://fox2now.com/2019/03/06/alex-trebek-diagnosed-with-stage-4-pancreatic-cancer/, Arts and Entertainment
+2019-03-18, https://www.wthr.com/article/jeopardy-host-alex-trebek-diagnosed-stage-4-pancreatic-cancer, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/15/ariana-grande-has-more-in-common-with-the-beatles-than-chart-topping-hits/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/09/every-disney-movie-will-be-included-on-disney-plus-streaming-service/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/10/neil-gaiman-wishes-his-american-gods-series-wasnt-so-nightmarishly-timely/, Arts and Entertainment
+2019-03-18, https://www.kmov.com/news/yes-hamilton-is-coming-back-to-the-fabulous-fox/article_85106c8a-42af-11e9-b539-8f427ac1d70e.html, Arts and Entertainment
+2019-03-18, https://pix11.com/2019/03/09/jennifer-lopez-and-alex-rodriguez-announce-engagement/, Arts and Entertainment
+2019-03-18, http://wgntv.com/2017/12/15/former-today-staffer-reveals-alleged-affair-with-matt-lauer/, Arts and Entertainment
+2019-03-18, https://www.wsmv.com/news/music-icon-brenda-lee-talks-about-her-incredible-career/article_f2515c8a-43a1-11e9-8f14-abf295f1f15a.html, Arts and Entertainment
+2019-03-18, https://pix11.com/2019/03/09/former-miss-teen-universe-dies-after-suffering-heart-attack-during-vacation/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/05/king-kong-bundy-passes-away-at-61/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/02/21/snoop-dogg-to-headline-at-illinois-state-fair/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2018/08/06/elderly-men-escape-retirement-home-to-go-to-heavy-metal-music-festival/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/10/julia-ruth-stevens-babe-ruths-daughter-dead-at-102/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/14/real-housewives-husband-joe-giudice-released-from-prison-and-in-ice-custody-report/, Arts and Entertainment
+2019-03-18, https://www.wthr.com/article/gleaners-gets-10000-donation-during-metallicas-record-setting-indianapolis-stop, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/05/tamron-hall-announces-shes-married-and-pregnant/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/06/r-kelly-facing-jail-time-for-overdue-child-support-payments/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/04/eliot-ness-files-show-how-legendary-investigator-took-on-capone-jaywalkers-and-a-serial-killer/, Arts and Entertainment
+2019-03-18, https://www.wthr.com/article/voice-contestant-janice-freeman-dies-33, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/04/coming-soon-to-fox-8-news-amanda-berry-and-charles-ramsey-reunite-for-first-time/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/04/the-prodigy-front-man-keith-flint-dies-at-49/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/09/jennifer-lopez-says-yes-to-alex-rodriguezs-proposal/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/13/fox-news-refutes-claim-that-primetime-star-tucker-carlson-will-take-a-vacation-amid-controversy/, Arts and Entertainment
+2019-03-18, https://www.wsmv.com/news/kim-kardashian-west-makes-plea-to-nashville-landlords-after-matthew/article_baed8712-477c-11e9-a5be-279d452ee676.html, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/08/whoopi-goldberg-says-she-nearly-died-from-pneumonia/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2018/12/30/hollywood-still-loves-a-white-savior-green-book-and-the-lazy-feel-good-take-on-race/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/04/hollywood-pays-tribute-to-luke-perry-my-heart-is-broken/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/04/separating-fact-from-fiction-in-the-story-of-al-capone-eliot-ness-and-the-untouchables/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/08/captain-marvel-soars-brie-larson-and-samuel-l-jackson-and-the-adorable-cat-are-unbeatable/, Arts and Entertainment
+2019-03-18, http://wgntv.com/2018/06/23/game-of-thrones-co-stars-kit-harington-rose-leslie-wed/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/17/sorry-one-day-at-a-time-fans-idris-elbas-turn-up-charlie-is-what-netflix-wants-you-to-want/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/12/disney-releases-new-aladdin-trailer/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/13/browns-fan-sets-off-fireworks-to-celebrate-odell-beckham-jr-trade/, Arts and Entertainment
+2019-03-18, https://www.azfamily.com/news/us_world_news/brands-distance-themselves-from-lori-loughlin-daughter-olivia-jade/article_42abaae6-469a-11e9-82be-0374ea0e4fd3.html, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/07/shawshank-redemption-cast-reunites-for-25th-anniversary-celebration-in-mansfield/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/17/jeanine-pirros-show-not-on-fox-lineup-week-after-omar-comments/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/16/its-a-boy-april-the-giraffe-gives-birth-again/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/08/rob-thomas-to-perform-at-hard-rock-rocksino/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2017/06/24/what-exactly-lurks-within-the-backward-grooves-of-stairway-to-heaven/, Arts and Entertainment
+2019-03-18, https://www.wthr.com/article/childrens-museum-removes-michael-jackson-items-display, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/11/chance-the-rapper-marries-longtime-girlfriend-kirsten-corley/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/11/nelly-tlc-flo-rida-coming-to-blossom-this-summer/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/05/zero-ego-fans-friends-share-heartwarming-stories-about-luke-perrys-secret-acts-of-kindness/, Arts and Entertainment
+2019-03-18, https://www.wthr.com/article/nickelodeons-double-dare-live-coming-indianapolis, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/02/the-cosmic-jokes-on-her-the-antiheroines-journey-through-a-cursed-universe/, Arts and Entertainment
+2019-03-18, http://wgntv.com/2018/05/06/childish-gambino-releases-this-is-america-music-video-during-snl/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/16/smart-watch-how-billions-makes-organized-crime-great-to-watch-again/, Arts and Entertainment
+2019-03-18, http://wgntv.com/2018/10/29/thank-you-but-dont-come-again-apu-leaving-the-simpsons/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/15/lori-loughlins-school-cheating-full-house-episode-resurfaces/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/12/jussie-smollett-set-to-appear-in-court-as-attorney-for-brothers-says-actor-betrayed-their-trust/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/12/britney-spears-broadway-musical-to-replace-cancelled-michael-jackson-musical-in-chicago/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/10/leslie-jones-and-kenan-thompson-roast-r-kellys-gayle-king-interview-on-saturday-night-live/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/03/would-you-help-your-good-friend-die-paddleton-is-a-buddy-road-movie-with-a-heavy-destination/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/09/samuel-l-jackson-defends-nick-furys-choice-not-to-call-captain-marvel-until-after-infinity-war_partner/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/12/panicked-fox-news-executives-attempt-to-downplay-carlson-to-prevent-advertisers-from-fleeing_partner/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/12/howard-stern-to-release-first-new-book-in-20-years/, Arts and Entertainment
+2019-03-18, https://fox13now.com/2019/03/04/luke-perry-dead-at-52/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/09/hbo-wants-more-seasons-of-silicon-valley-but-mike-judge-might-be-ready-to-end-it_partner/, Arts and Entertainment
+2019-03-18, https://www.fayobserver.com/news/20190213/meteorologist-greg-fishel-out-at-wral, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/07/mad-about-you-revival-featuring-paul-reiser-and-helen-hunt-picked-up-by-spectrum-originals/, Arts and Entertainment
+2019-03-18, https://www.ohio.com/entertainmentlife/20190228/robin-swoboda-on-move-again, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/12/disney-releases-official-trailer-for-live-action-aladdin-and-its-so-good/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/17/were-working-on-something-drake-bell-confirms-reboot-of-drake-josh/, Arts and Entertainment
+2019-03-18, https://www.wthr.com/article/actor-anthony-hopkins-cliff-side-home-danger-falling, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/05/outlaw-music-festival-featuring-willie-nelson-coming-to-columbus/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/02/27/magazine-featuring-beatles-returned-to-cuyahoga-county-public-library-50-years-late/, Arts and Entertainment
+2019-03-18, https://wreg.com/2019/03/06/joycelyn-savage-speaks-with-parents-for-the-first-time-in-years-after-interview/, Arts and Entertainment
+2019-03-18, https://pix11.com/2019/03/09/houston-man-dances-off-200-pounds-after-doctors-tell-him-he-wont-live-to-see-30/, Arts and Entertainment
+2019-03-18, https://fox8.com/2019/03/10/santa-barbara-beverly-hills-90210-actor-jed-allan-dies-at-84/, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/14/reba-mcentire-to-play-illinois-state-fair/, Arts and Entertainment
+2019-03-18, https://fox2now.com/2019/03/01/katherine-helmond-star-of-whos-the-boss-and-everybody-loves-raymond-dies-at-89/, Arts and Entertainment
+2019-03-18, https://www.azfamily.com/actor-jan-michael-vincent-star-of-airwolf-dies-in-asheville/article_882f7383-ac94-5a35-81ad-49fd106c3085.html, Arts and Entertainment
+2019-03-18, https://wgntv.com/2019/03/05/frozen-broadway-musical-coming-to-chicago-in-2020/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/14/snl-star-aidy-bryant-glows-in-shrill-a-comedy-about-refusing-to-diminish-your-light/, Arts and Entertainment
+2019-03-18, https://grist.org/article/7-sci-fi-stories-that-imagine-a-better-world/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/15/saturday-night-live-accused-of-plagiarizing-2-sketches-from-new-york-comedy-team_partner/, Arts and Entertainment
+2019-03-18, https://pix11.com/2019/03/06/mad-about-you-revival-series-to-reunite-helen-hunt-and-paul-reiser/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/14/jesse-eisenberg-opens-up-i-think-of-myself-as-a-basic-unremarkable-person/, Arts and Entertainment
+2019-03-18, https://www.salon.com/2019/03/04/captain-marvel-star-samuel-l-jackson-reflects-on-brie-larsons-push-for-press-inclusion_partner/, Arts and Entertainment
+2019-03-18, https://www.providencejournal.com/news/20190305/big-and-rich-to-headline-block-island-country-fest, Arts and Entertainment
+2019-03-18, https://www.foxcarolina.com/news/experts-if-you-have-these-trees-in-your-yard-cut/article_2371491a-4037-11e9-85b2-d7c51f07e8c7.html, Nature and the Environment
+2019-03-18, https://grist.org/article/the-world-lost-environmental-leaders-on-ethiopian-airlines-flight-302/, Nature and the Environment
+2019-03-18, https://fox8.com/2019/03/07/april-the-giraffe-profoundly-advanced-in-pregnancy-expected-to-deliver-soon/, Nature and the Environment
+2019-03-18, https://wreg.com/2019/03/04/officials-say-memphis-drinking-water-ok-after-report-raises-alarm-over-toxins-near-plant/, Nature and the Environment
+2019-03-18, https://grist.org/article/regenerative-agriculture-world-saving-idea-or-food-marketing-ploy/, Nature and the Environment
+2019-03-18, https://grist.org/article/the-midwest-is-calling-for-a-clean-energy-revolution/, Nature and the Environment
+2019-03-18, https://www.salon.com/2019/03/16/the-un-reports-humanity-is-failing-its-climate-change-goals_partner/, Nature and the Environment
+2019-03-18, https://wreg.com/2019/03/04/osceola-residents-worried-as-mississippi-river-continues-to-rise-ive-never-seen-it-this-high/, Nature and the Environment
+2019-03-18, https://www.wthr.com/article/april-giraffes-keepers-consider-reevaluating-weekend-plans, Nature and the Environment
+2019-03-18, https://grist.org/article/humans-cause-climate-change-do-we-just-need-fewer-humans/, Nature and the Environment
+2019-03-18, https://www.wnem.com/news/task-force-working-on-solution-for-low-water-levels-on/article_8ae8bac6-3bd0-11e9-9a17-0f475db89b4e.html, Nature and the Environment
+2019-03-18, https://fox13now.com/2019/03/14/diesel-brothers-held-liable-for-violating-clean-air-act-by-selling-modified-vehicles/, Nature and the Environment
+2019-03-18, https://www.salon.com/2019/03/17/how-clean-air-transformed-american-cities/, Nature and the Environment
+2019-03-18, https://www.salon.com/2019/03/12/a-carbon-tax-should-be-the-centerpiece-of-the-green-new-deal/, Nature and the Environment
+2019-03-18, https://grist.org/article/mardi-gras-floods-new-orleans-in-plastic-beads-one-scientist-has-a-gooey-fix/, Nature and the Environment
+2019-03-18, https://fox13now.com/2019/03/01/deq-discovers-source-of-fuel-smell-that-plagues-layton-neighborhood/, Nature and the Environment
+2019-03-18, https://grist.org/article/youth-climate-strikers-we-are-going-to-change-the-fate-of-humanity/, Nature and the Environment
+2019-03-18, https://www.salon.com/2019/03/15/regenerative-agriculture-world-saving-idea-or-food-marketing-ploy_partner/, Nature and the Environment
+2019-03-18, https://kfor.com/2019/03/08/big-changes-planned-for-turkey-mountain-trails/, Nature and the Environment
+2019-03-18, https://www.wnem.com/news/residents-lose-appeal-over-odors-from-sugar-beet-processor/article_244fe9a2-4809-11e9-b2bc-534347874836.html, Nature and the Environment
+2019-03-18, https://grist.org/article/the-role-of-government-in-environmental-protection/, Nature and the Environment
+2019-03-18, https://www.salon.com/2019/02/25/the-uninhabitable-earth-puts-words-to-a-future-you-dont-want-to-live-in_partner/, Nature and the Environment
+2019-03-18, https://www.salon.com/2019/03/15/what-would-the-salmon-say_partner/, Nature and the Environment
+2019-03-18, https://www.registerguard.com/news/20190302/eugene-youth-climate-change-lawsuit-featured-on-60-minutes-sunday, Nature and the Environment
+2019-03-18, https://www.azfamily.com/news/chicago-river-goes-green-for-st-patrick-s-day-but/article_205b54d0-4845-11e9-aaa2-5b41e57dbed8.html, Nature and the Environment
+2019-03-18, https://www.ohio.com/news/20190316/residents-swamped-by-akrons-12-billion-sewer-system-overhaul, Nature and the Environment
+2019-03-18, https://grist.org/article/coal-ash-contamination-is-widespread-new-report-finds/, Nature and the Environment
+2019-03-18, https://www.wfsb.com/news/public-hearing-on-proposed-plastic-bag-tax-to-be-held/article_71a54c44-4375-11e9-a519-8bcc3dd3f139.html, Nature and the Environment
+2019-03-18, https://www.wthr.com/article/indianapolis-zoo-hosting-power-recycling-day-safely-get-rid-old-electronics, Nature and the Environment
+2019-03-18, https://www.wsmv.com/news/trash-filling-creeks-leading-to-cumberland-river/article_b29afec8-4501-11e9-bc4c-07928c15cd00.html, Nature and the Environment
+2019-03-18, https://wgntv.com/2019/03/15/cutting-class-for-climate-change/, Nature and the Environment
+2019-03-18, https://www.tcpalm.com/story/news/local/indian-river-lagoon/health/2019/03/08/lake-okeechobee-discharges/3058538002/, Nature and the Environment
+2019-03-18, https://www.tcpalm.com/story/news/local/indian-river-lagoon/health/2018/09/22/congressman-mayor-ask-army-corps-change-how-lake-o-managed/1384078002/, Nature and the Environment
+2019-03-18, https://wreg.com/2019/02/28/trash-piling-up-along-downtown-waterfront-as-river-rises/, Nature and the Environment
+2019-03-18, https://www.timesonline.com/news/20190306/report-little-blue-run-still-contaminating-local-groundwater, Nature and the Environment
+2019-03-18, https://grist.org/article/mary-robinson-international-climate-badass-on-why-green-solutions-require-a-feminist-lens/, Nature and the Environment
+2019-03-18, https://fox13now.com/2019/02/28/proposed-state-program-could-help-you-buy-a-car-to-clean-the-air/, Nature and the Environment
+2019-03-18, https://www.columbiatribune.com/news/20190309/proposed-boone-county-wind-farm-causes-divisions, Nature and the Environment
+2019-03-18, https://www.palmbeachpost.com/news/20190307/new-lake-o-drained-to-its-lowest-level-for-this-time-since-2011-so-is-that-good-or-bad, Nature and the Environment
+2019-03-18, https://fox13now.com/2019/03/15/students-in-utah-and-around-the-world-prepare-to-walk-out-for-climate-change-protest/, Nature and the Environment
+2019-03-18, https://www.heraldtribune.com/news/20190301/city-of-sarasota-switching-to-recycling-carts-from-bins, Nature and the Environment
+2019-03-18, https://www.kptv.com/news/students-around-the-world-plan-to-walk-out-of-class/article_07ccd018-46df-11e9-a971-43481e8f935e.html, Nature and the Environment
+2019-03-18, https://www.recordonline.com/news/20190303/small-local-farm-gets-big-time-award, Nature and the Environment
+2019-03-18, https://www.wthr.com/article/massive-boom-will-corral-pacific-oceans-plastic-trash-1, Nature and the Environment
+2019-03-18, https://www.heraldtribune.com/news/20190304/florida-bill-would-make-banning-plastic-straws-illegal, Nature and the Environment
+2019-03-18, https://www.mpnnow.com/news/20190305/progress-made-at-toms-mobil-site-in-canandaigua, Nature and the Environment
+2019-03-18, https://wreg.com/2019/03/13/tdec-intervenes-in-landfill-smell-issue-in-collierville/, Nature and the Environment
+2019-03-18, https://www.tcpalm.com/story/sports/2019/03/14/army-corps-engineers-announces-plan-lake-okeechobee-discharges/3160506002/, Nature and the Environment
+2019-03-18, https://www.wthr.com/article/indianapolis-zoo-hosts-electronic-recycling-event, Nature and the Environment
+2019-03-18, https://wreg.com/2019/03/12/memphis-group-accuses-city-contractor-of-illegally-dumping-on-property-during-tire-redemption-program/, Nature and the Environment
+2019-03-18, https://www.vvdailypress.com/news/20190310/dealing-with-dumping-cities-offer-services-to-reduce-items-illegally-deposited-in-desert-areas, Nature and the Environment
+2019-03-18, https://grist.org/article/we-wont-stop-striking-the-new-york-13-year-old-taking-a-stand-over-climate-change/, Nature and the Environment
+2019-03-18, https://www.tcpalm.com/story/news/local/indian-river-lagoon/health/2019/03/12/wpb-appeal-court-hears-environmentalists-sfwmd-argue-over-records/3107757002/, Nature and the Environment
+2019-03-18, https://grist.org/article/meet-5-people-bringing-equity-to-the-fight-against-climate-change/, Nature and the Environment
+2019-03-18, https://www.tcpalm.com/story/news/local/indian-river-lagoon/health/2019/03/14/sfwmd-dep/3149896002/, Nature and the Environment
+2019-03-18, https://wreg.com/2019/03/14/thousands-of-tires-from-redemption-program-still-sit-in-lot/, Nature and the Environment
+2019-03-18, https://www.augustachronicle.com/news/20190303/augustas-goat-program-more-expensive-than-expected, Nature and the Environment
+2019-03-18, https://www.wnem.com/news/dte-says--turbine-wind-project-is-running-in-mid/article_f6bb31a0-419a-11e9-9b27-e7b038fc2988.html, Nature and the Environment
+2019-03-18, https://www.kctv5.com/news/two-companies-indicted-for-toxic-cloud-in-atchison-in/article_f2a24bc8-4058-11e9-b28f-df876621fa01.html, Nature and the Environment
+2019-03-18, https://www.the-review.com/news/20190312/ohio-epa-issues-ruling-on-spill-in-alliance-creek, Nature and the Environment
+2019-03-18, https://fox2now.com/2019/03/03/hatchery-hopes-new-tanks-will-help-endangered-fish-breeding/, Nature and the Environment
+2019-03-18, https://www.dispatch.com/news/20190304/farmers-challenge-toledos-lake-erie-vote, Nature and the Environment
+2019-03-18, https://www.telegram.com/news/20190307/high-low-points-in-report-on-worcester-lakes-ponds, Nature and the Environment
+2019-03-18, https://grist.org/climate-energy/earth-is-getting-greener-heres-why-thats-a-problem/, Nature and the Environment
+2019-03-18, https://kfor.com/2019/03/08/spring-cleaning-make-sure-you-are-recycling-right-before-putting-your-carts-at-the-curb/, Nature and the Environment
+2019-03-18, https://www.columbiatribune.com/news/20190228/piontek-can-you-smell-missouris-newest-invasive-species, Nature and the Environment
+2019-03-18, https://www.capecodtimes.com/news/20190303/study-reinforces-necessity-of-dredging-for-chatham-fishing-fleet, Nature and the Environment
+2019-03-18, https://www.sj-r.com/news/20190305/frank-edwards-calls-for-release-of-cwlp-energy-plan-lake-springfield-to-be-dredged, Nature and the Environment
+2019-03-18, https://www.wnem.com/news/as-weather-warms-coyote-sightings-more-common-in-michigan/article_7db72998-45e7-11e9-aed0-930837493790.html, Nature and the Environment
+2019-03-18, https://www.wfsb.com/news/city-of-bristol-collecting-recycled-items-for-local-schools/article_1cc6a4ee-4676-11e9-9d79-cf54c75fe46d.html, Nature and the Environment
+2019-03-18, https://www.registerguard.com/news/20190304/lane-county-nonprofit-leader-offers-his-expertise-at-harvard-mit, Nature and the Environment
+2019-03-18, https://www.savannahnow.com/news/20190304/georgia-congressman-buddy-carter-all-in-on-addressing-climate-change, Nature and the Environment
+2019-03-18, https://www.ohio.com/news/20190222/betty-lin-fisher-more-recycling-qampas-and-potential-help-via-target, Nature and the Environment
+2019-03-18, https://www.kmov.com/news/local-students-organize-to-demand-action-on-climate-change/article_1923ddde-4761-11e9-bec3-c346e862a623.html, Nature and the Environment
+2019-03-18, https://www.buckscountycouriertimes.com/news/20190306/warminster-native-at-center-of-congressional-pfas-chemical-hearing, Nature and the Environment
+2019-03-18, https://www.tcpalm.com/story/news/local/indian-river-lagoon/health/2019/02/05/lake-okeechobee-algae/2766146002/, Nature and the Environment
+2019-03-18, http://www.wnem.com/story/37549231/invasive-bloody-red-shrimp-discovered-in-lake-superior, Nature and the Environment
+2019-03-18, https://www.thehawkeye.com/news/20190301/etcher-family-farms-to-pay-50k-for-violating-clean-water-act, Nature and the Environment
+2019-03-18, https://www.goerie.com/news/20190308/recycle-your-electronics-saturday-in-erie-county, Nature and the Environment
+2019-03-18, https://www.azfamily.com/report-claims-tax-on-red-meat-would-make-people-eat/article_827bf0d7-4d1f-5a74-a341-465297412d8f.html, Nature and the Environment
+2019-03-18, https://www.heraldtribune.com/news/20190312/environmental-regulation-bills-start-moving-in-florida-legislature-after-algae-troubles, Nature and the Environment
+2019-03-18, https://www.record-courier.com/news/20190309/road-brine-de-icer-raises-concerns, Nature and the Environment
+2019-03-18, https://www.foxcarolina.com/news/plant-experts-warn-of-invasive-buttercup-species-that-can-choke/article_9167e11a-3f68-11e9-8f6c-17188daaaf0a.html, Nature and the Environment
+2019-03-18, https://www.goerie.com/news/20190313/hauler-asks-for-increased-fee-to-cover-millcreek-recycling-costs, Nature and the Environment
+2019-03-18, https://www.ohio.com/news/20190313/stark-county-judge-tosses-rover-pipeline-lawsuit, Nature and the Environment
+2019-03-18, https://www.salon.com/2019/03/06/a-clean-water-revolution-is-happening-in-the-u-s-visionary-bill-of-rights-for-lake-erie-is-now-law_partner/, Nature and the Environment
+2019-03-18, https://www.heraldtribune.com/news/20190312/sea-level-rise-bill-advances-in-florida-senate, Nature and the Environment
+2019-03-18, https://www.statesman.com/news/20190308/texas-bills-would-require-climate-planning, Nature and the Environment
+2019-03-18, https://www.fox10tv.com/news/bay-minette-cracking-down-on-illegal-dumping/article_ae5a6530-41f3-11e9-b983-370f3cdec6b0.html, Nature and the Environment
+2019-03-18, https://pix11.com/2019/03/15/students-are-skipping-class-to-protest-climate-change-here-are-their-demands/, Nature and the Environment
+2019-03-18, https://www.thisweeknews.com/news/20190305/upper-arlington-updates-zoning-for-river-ridge-kingsdale, Nature and the Environment
+2019-03-18, https://fox2now.com/2019/03/12/climate-change-will-make-a-walk-in-the-woods-a-much-rarer-pleasure/, Nature and the Environment
+2019-03-18, https://www.starnewsonline.com/news/20190314/cfpua-reports-elevated-chemical-level-in-drinking-water, Nature and the Environment
+2019-03-18, https://www.apalachtimes.com/news/20190307/is-there-hope-for-restoring-bay, Nature and the Environment
+2019-03-18, https://www.goerie.com/news/20190309/erie-coke-appeals-dep-air-quality-order, Nature and the Environment
+2019-03-18, https://www.wfsb.com/news/lawmakers-differ-on-approaches-to-ban-plastic-bags/article_71a54c44-4375-11e9-a519-8bcc3dd3f139.html, Nature and the Environment
+2019-03-18, https://grist.org/article/how-i-learned-to-stop-worrying-and-deal-with-climate-change/, Nature and the Environment
+2019-03-18, https://www.kctv5.com/news/kansas-companies-indicted-over-noxious-chemical-cloud/article_6684f348-40d5-11e9-a427-5b2f535f837c.html, Nature and the Environment
+2019-03-18, https://www.recordonline.com/news/20190307/biohitech-pulls-plug-on-trash-to-fuel-plant-in-new-windsor, Nature and the Environment
+2019-03-18, https://www.salon.com/2019/03/11/trumps-china-scandal-an-entire-new-wave-of-sleaze-and-corruption-surfaces-in-florida/, Politics
+2019-03-18, https://www.salon.com/2019/03/08/republicans-freak-out-over-hr1-they-dont-want-america-to-have-fair-elections/, Politics
+2019-03-18, https://www.salon.com/2019/03/01/fox-news-calls-out-kellyanne-conway-for-lying_partner/, Politics
+2019-03-18, https://www.salon.com/2019/03/05/trumps-presidential-harassment-is-just-starting-and-republicans-brought-this-on-themselves/, Politics
+2019-03-18, https://www.salon.com/2019/03/01/republicans-who-increased-debt-with-tax-cuts-now-say-its-a-threat-to-national-security/, Politics
+2019-03-18, https://www.salon.com/2019/03/04/donald-trumps-cpac-speech-was-completely-unhinged-why-didnt-media-cover-it-that-way/, Politics
+2019-03-18, https://www.salon.com/2019/03/09/can-america-recover-from-trump-a-radicalized-right-wing-suggests-dangers-ahead/, Politics
+2019-03-18, https://www.salon.com/2019/03/04/why-does-rep-mark-meadows-represent-a-city-full-of-vegans-and-liberals-thanks-gerrymander/, Politics
+2019-03-18, https://www.salon.com/2019/03/14/house-democrats-quietly-eye-ivanka-trump-and-her-business-dealings-report/, Politics
+2019-03-18, https://www.salon.com/2019/03/08/dems-signal-michael-cohens-explosive-closed-door-testimony-implies-legal-peril-for-trump-family_partner/, Politics
+2019-03-18, https://www.salon.com/2019/03/05/michael-cohens-lawyer-reveals-new-hush-money-check-signed-by-key-trump-figures-on-live-tv/, Politics
+2019-03-18, https://www.salon.com/2019/03/15/joe-bidens-meeting-with-stacey-abrams-sparks-speculation/, Politics
+2019-03-18, https://www.salon.com/2019/03/07/trump-defenders-reach-concern-troll-phase-democrats-are-just-acting-too-mean/, Politics
+2019-03-18, https://www.salon.com/2019/02/28/gop-operative-indicted-over-massive-n-c-election-fraud-mitch-mcconnell-blames-democrats/, Politics
+2019-03-18, https://www.salon.com/2019/03/08/white-house-source-leaks-docs-on-jared-and-ivankas-security-clearance-to-house-dems_partner/, Politics
+2019-03-18, https://www.salon.com/2019/03/11/trumps-budget-director-just-blamed-barack-obama-for-the-presidents-own-failed-promises_partner/, Politics
+2019-03-18, https://www.salon.com/2019/03/03/democrats-finally-achieve-a-win-on-guns-will-they-regret-it/, Politics
+2019-03-18, https://www.salon.com/2019/03/10/a-lot-of-people-love-the-idea-of-joe-biden-but-is-the-real-joe-biden-electable/, Politics
+2019-03-18, https://www.salon.com/2019/03/04/republican-senator-tells-cnn-host-it-is-perfectly-acceptable-for-trump-to-use-doj-to-punish-media_partner/, Politics
+2019-03-18, https://www.courier-tribune.com/news/20190307/white-house-prepares-for-robert-mueller8217s-report-whatever-it-says, Politics
+2019-03-18, https://www.salon.com/2019/03/04/5-zaniest-revelations-from-new-yorkers-bombshell-expose-about-fox-news-influence-on-donald-trump_partner/, Politics
+2019-03-18, https://www.salon.com/2019/03/10/aoc-must-reset-a-conversation-stolen-by-the-right-green-new-deal-is-an-economic-stimulus-program/, Politics
+2019-03-18, https://www.wthr.com/article/lebanon-mayor-removes-police-chief-unacceptable-facebook-post, Politics
+2019-03-18, https://wgntv.com/2019/03/12/pritzker-unveils-online-graduated-income-tax-calculator/, Politics
+2019-03-18, https://www.salon.com/2019/03/16/senate-republicans-stand-up-to-trump-hardly-they-capitulated-to-the-right/, Politics
+2019-03-18, https://www.salon.com/2019/03/09/britain-is-rethinking-all-of-its-foreign-ties-not-simply-with-europe/, Politics
+2019-03-18, https://www.wsmv.com/news/tennessee-house-declares-bridge-a-public-health-hazard/article_830ac77e-48d5-11e9-b76e-1f71b2038cac.html, Politics
+2019-03-18, https://www.salon.com/2019/03/09/donald-trump-admired-the-russian-badasss-macho-posturing-putin-was-happy-to-have-the-attention/, Politics
+2019-03-18, https://www.salon.com/2019/03/12/former-house-speaker-paul-ryan-explains-how-president-donald-trump-could-be-defeated-in-2020/, Politics
+2019-03-18, https://www.salon.com/2019/03/13/rex-tillerson-told-jared-kushner-his-interference-in-foreign-policy-endangered-the-us-report/, Politics
+2019-03-18, https://www.salon.com/2019/03/04/alexandria-ocasio-cortez-blasts-democratic-colleagues-who-supported-gotcha-amendment-in-gun-bill/, Politics
+2019-03-18, https://www.salon.com/2019/03/01/michael-cohen-builds-the-case-against-trump-the-presidents-inflated-net-worth-provides-big-clues/, Politics
+2019-03-18, https://www.tcpalm.com/story/news/local/indian-river-lagoon/health/2019/03/05/sfwmd-board-appointee-signs-25-million-contract-district/3068329002/, Politics
+2019-03-18, https://www.wnem.com/news/online-petition-calling-for-no-new-gas-tax-in-michigan/article_7c63796c-40fa-11e9-96b3-67a15b4d4260.html, Politics
+2019-03-18, https://www.salon.com/2019/03/15/former-white-house-aide-rob-porter-accused-of-domestic-abuse-pens-op-ed-in-wall-street-journal/, Politics
+2019-03-18, https://www.salon.com/2019/03/15/bernie-sanders-quietly-scored-a-major-win-against-donald-trump-this-week/, Politics
+2019-03-18, https://fox8.com/2019/03/06/u-s-sen-marco-rubio-files-bill-that-would-make-daylight-saving-time-permanent-for-u-s/, Politics
+2019-03-18, https://www.wthr.com/article/hillary-clinton-says-she-wont-run-president-2020-1, Politics
+2019-03-18, https://www.kmov.com/news/makes-you-proud-of-st-louis-dozens-show-up-to/article_a35734b2-3c6f-11e9-a7e6-239a342aea02.html, Politics
+2019-03-18, https://www.salon.com/2019/03/06/moderate-democrats-start-to-push-back-against-aoc-fever/, Politics
+2019-03-18, https://www.salon.com/2019/03/17/is-a-war-with-iran-on-the-horizon_partner/, Politics
+2019-03-18, https://www.wfsb.com/news/west-haven-man-with-dying-wish-to-meet-president-trump/article_31137906-45cf-11e9-9b73-83a56e9946de.html, Politics
+2019-03-18, https://www.salon.com/2019/03/08/house-democrats-to-investigate-mysterious-qatar-linked-cash-infusion-that-bailed-out-jared-kushner_partner/, Politics
+2019-03-18, https://www.salon.com/2019/03/08/in-defense-of-fox-news-what-democrats-miss-by-shunning-the-rights-favorite-news-channel/, Politics
+2019-03-18, https://www.salon.com/2019/03/02/time-for-a-change-can-2020-democrats-break-free-from-the-failures-of-neoliberalism/, Politics
+2019-03-18, https://www.azfamily.com/news/politics/arizona/gallego-declares-victory-in-race-for-phoenix-mayor-valenzuela-concedes/article_eb1e0584-4541-11e9-b180-cf3d9a9c4fca.html, Politics
+2019-03-18, https://www.statesman.com/news/20190313/breaking-beto-orourke-confirmed-2020-presidential-run-tv-station-reports, Politics
+2019-03-18, https://www.salon.com/2019/03/17/beto-orourke-ilhan-omar-and-the-democratic-future-time-to-kill-off-the-ghosts-of-the-past/, Politics
+2019-03-18, https://www.swtimes.com/news/20190313/im-not-very-happy-fort-smith-mayor-expresses-displeasure-with-handling-of-recent-issues, Politics
+2019-03-18, https://www.salon.com/2019/03/05/do-democrats-need-to-play-it-safe-in-to-win-in-2020-theres-no-real-evidence-that-works/, Politics
+2019-03-18, https://www.wthr.com/article/lawmaker-wants-requirement-people-own-ar-15, Politics
+2019-03-18, https://www.salon.com/2019/03/14/senate-blocks-national-emergency-at-border-setting-up-first-veto-of-donald-trumps-presidency/, Politics
+2019-03-18, https://www.kctv5.com/news/oops-missouri-official-says-never-mind-on-tax-table-mistake/article_2bb13756-3ffe-5a4f-8ba0-ae6a78715684.html, Politics
+2019-03-18, https://www.foxcarolina.com/news/south_carolina/bill-allows-daylight-saving-time-all-year-in-south-carolina/article_7d58ef12-6a34-519f-8114-20afc169b3fd.html, Politics
+2019-03-18, https://www.salon.com/2019/03/04/what-aocs-green-new-deal-can-learn-from-fdrs-new-deal/, Politics
+2019-03-18, https://www.salon.com/2019/03/12/how-scott-walkers-defeat-in-wisconsin-could-pave-the-way-for-democrats-to-defeat-trump-in-2020_partner/, Politics
+2019-03-18, https://www.salon.com/2013/12/05/oil_led_to_pearl_harbor/, Politics
+2019-03-18, https://www.wnem.com/news/whitmer-to-propose--cent-gas-tax-increase/article_815985fc-3ebf-11e9-a951-3b97bfc1adca.html, Politics
+2019-03-18, https://www.salon.com/2019/03/07/fox-news-has-become-an-american-plague-washington-post-media-columnist-margaret-sullivan-says_partner/, Politics
+2019-03-18, https://www.wfsb.com/news/local-lawmakers-remember-ct-state-rep-who-passed-away/article_0b10a0ee-4723-11e9-abdb-d3828a4f40d2.html, Politics
+2019-03-18, https://fox13now.com/2019/03/09/daylight-saving-time-bill-finally-gets-a-hearing-in-the-utah-state-legislature/, Politics
+2019-03-18, https://fox13now.com/2019/02/08/this-could-be-utahs-new-state-flag-under-a-bill-in-the-legislature/, Politics
+2019-03-18, https://www.salon.com/2019/03/14/beto-launches-his-campaign-and-its-clear-that-white-men-still-have-unfair-advantages/, Politics
+2019-03-18, https://www.salon.com/2019/03/14/revealed-these-are-the-salaries-paid-to-trump-administration-officials-who-also-worked-for-fox-news_partner/, Politics
+2019-03-18, https://fox8.com/2019/03/02/president-trump-predicts-2020-win-at-cpac/, Politics
+2019-03-18, https://fox8.com/2019/03/05/mike-dewine-to-deliver-1st-state-of-the-state-speech/, Politics
+2019-03-18, https://fox13now.com/2019/03/11/daylight-saving-time-bill-finally-sees-the-light-of-day-in-the-utah-state-legislature/, Politics
+2019-03-18, https://www.salon.com/2019/03/12/book-alleges-donald-trump-ordered-john-kelly-to-fire-ivanka-and-jared-get-rid-of-my-kids_partner/, Politics
+2019-03-18, https://wgntv.com/2019/03/05/new-poll-shows-lightfoot-with-large-lead-in-mayors-race/, Politics
+2019-03-18, https://www.salon.com/2019/03/08/aoc-accuses-conservatives-of-spreading-fake-news-about-her-so-fox-will-have-something-to-talk-about_partner/, Politics
+2019-03-18, https://www.salon.com/2019/03/03/the-health-requirements-of-10-thousand-victims-or-a-border-wall-why-is-this-a-hard-economic-choice/, Politics
+2019-03-18, https://www.salon.com/2019/03/02/john-hickenlooper-makes-his-pitch-to-progressives-i-share-a-majority-of-perspectives-with-aoc/, Politics
+2019-03-18, https://www.salon.com/2019/03/07/us-embassy-officials-kept-out-of-the-loop-during-jared-kushners-recent-trip-to-saudi-arabia_partner/, Politics
+2019-03-18, https://www.kmov.com/news/missouri-on-track-to-offer-real-id-licenses-this-month/article_ec9d53c0-3c67-11e9-8199-133e0eecc9f1.html, Politics
+2019-03-18, https://fox13now.com/2019/03/15/all-the-things-the-utah-state-legislature-did-to-your-life-this-year/, Politics
+2019-03-18, https://www.salon.com/2019/03/07/state-department-rescinds-award-offer-to-finnish-journalist-jessikka-aro-after-she-criticizes-trump_partner/, Politics
+2019-03-18, https://www.wfsb.com/news/gov-on-tolls-state-needs-reliable-recurring-source-of-revenue/article_409e2f6c-4000-11e9-80c5-3b2e59ea4c24.html, Politics
+2019-03-18, https://www.salon.com/2019/03/05/donald-trump-donated-to-several-of-the-top-2020-democrats-is-this-really-a-problem/, Politics
+2019-03-18, https://www.salon.com/2019/03/07/alexandria-ocasio-cortez-and-ilhan-omar-join-progressives-urging-trump-to-change-course-on-venezuela/, Politics
+2019-03-18, https://www.salon.com/2019/03/02/michael-cohens-testimony-on-trump-business-reveals-conduct-thats-widespread-in-corporate-america_partner/, Politics
+2019-03-18, https://www.salon.com/2019/03/07/democrats-defend-fox-news-following-dnc-blackout/, Politics
+2019-03-18, https://www.salon.com/2019/03/12/pelosi-is-right-dems-cant-impeach-trump-she-should-explain-that-honestly/, Politics
+2019-03-18, https://fox8.com/2019/03/17/senator-kirsten-gillibrand-officially-jumps-into-2020-race-teases-speech-at-trump-hotel-in-new-york/, Politics
+2019-03-18, https://www.salon.com/2019/03/13/leaked-emails-suggest-rudy-giuliani-dangled-pardon-before-michael-cohen-friends-in-high-places_partner/, Politics
+2019-03-18, https://www.wfsb.com/news/highest-tax-rates-in-the-country-where-ct-falls/article_9cec40d2-44bb-11e9-80e2-57ca21ec6d4f.html, Politics
+2019-03-18, https://www.wthr.com/article/video-gary-police-officer-breaks-down-giving-final-radio-call-retirement, Politics
+2019-03-18, https://www.salon.com/2019/03/14/gop-paid-leave-bill-could-force-new-parents-to-raid-social-security-delay-retirement/, Politics
+2019-03-18, https://fox2now.com/2019/03/08/missouri-judge-blocks-new-restrictions-on-unions/, Politics
+2019-03-18, https://www.salon.com/2019/03/17/south-bend-mayor-pete-buttigieg-defended-the-green-new-deal/, Politics
+2019-03-18, https://www.salon.com/2019/03/03/donald-trump-attacks-robert-mueller-and-green-new-deal-at-cpac/, Politics
+2019-03-18, https://www.fox5vegas.com/news/nevada-senate-majority-leader-kelvin-atkinson-resigns/article_1814f2ee-3f7c-11e9-9736-23a7ee238bca.html, Politics
+2019-03-18, https://www.cjonline.com/news/20190317/kansas-department-of-transportation-division-calls-president-donald-trump-delusional-communist, Politics
+2019-03-18, https://pix11.com/2019/03/13/proposed-trump-budget-a-devastating-assault-on-new-york-cuomo-says/, Politics
+2019-03-18, https://www.salon.com/2019/03/02/how-the-architecture-of-border-walls-creates-division-or-inspires-trust/, Politics
+2019-03-18, https://www.wthr.com/article/proposed-bill-would-make-daylight-saving-time-year-round, Politics
+2019-03-18, https://www.salon.com/2019/03/09/the-return-of-the-pragmatic-progressive-john-delaney-makes-the-case-for-moderation-in-2020/, Politics
+2019-03-18, https://www.wthr.com/article/indiana-sen-birch-bayh-author-title-ix-law-dies-age-91, Politics
+2019-03-18, https://www.azfamily.com/news/tempe-approves-new-stricter-distracted-driving-laws/article_ff85f242-3c14-11e9-80da-5347f2c2ff55.html, Politics
+2019-03-18, https://www.salon.com/2019/03/05/house-democrats-plan-to-take-floor-action-to-rebuke-rep-ilhan-omars-statements-about-israel/, Politics
+2019-03-18, https://www.salon.com/2019/03/11/new-ad-attacks-beto-orourke-for-white-male-privilege-paid-for-by-republicans/, Politics
+2019-03-18, http://wgntv.com/2018/05/12/ben-zobrist-calls-out-mlb-for-ridiculous-uniform-violation/,Sports
+2019-03-18, https://fox8.com/2019/03/12/odell-beckham-jr-traded-to-cleveland-browns-reports/,Sports
+2019-03-18, https://fox8.com/2019/03/13/reports-cleveland-browns-pick-up-another-offensive-piece-in-te-demetrius-harris/,Sports
+2019-03-18, https://wgntv.com/2019/03/03/suburban-pinball-arcade-boasts-worlds-largest-collection-rare-machines/,Sports
+2019-03-18, http://wgntv.com/2018/08/13/robert-morris-athlete-collapses-dies-during-pick-up-basketball-game/,Sports
+2019-03-18, https://www.kctv5.com/sports/mma-fighter-conor-mcgregor-arrested-in-south-florida/article_3052d06c-80ea-51af-b7ef-582f196720d0.html,Sports
+2019-03-18, https://fox8.com/2019/03/05/browns-players-tweets-have-fans-buzzing/,Sports
+2019-03-18, https://fox8.com/2019/03/14/report-lebron-james-trade-was-contemplated-by-lakers/,Sports
+2019-03-18, https://fox8.com/2019/03/14/browns-officially-add-four-more-free-agents/,Sports
+2019-03-18, https://fox8.com/2019/03/12/browns-feeling-good-about-chance-to-sign-earl-thomas-report/,Sports
+2019-03-18, https://fox8.com/2019/03/13/shaker-heights-police-juvenile-screaming-in-streets-just-excited-browns-fan/,Sports
+2019-03-18, https://fox8.com/2019/03/14/browns-gm-john-dorsey-to-discuss-free-agent-signings/,Sports
+2019-03-18, https://www.wthr.com/article/operation-basketball-sectional-scores-march-1-2019,Sports
+2019-03-18, https://www.ohio.com/sports/20190311/2019-nfl-mock-draft-cleveland-browns-could-go-number-of-directions-in-1st-round,Sports
+2019-03-18, https://fox8.com/2019/03/12/reports-former-vikings-dt-sheldon-richardson-expected-to-sign-with-the-browns/,Sports
+2019-03-18, https://wgntv.com/2019/03/05/lawsuits-allege-illinois-youth-hockey-association-makes-sport-more-expensive-less-competitive/,Sports
+2019-03-18, https://www.wfsb.com/news/uconn-to-compete-in-aac-tournament-without-star-samuelson/article_d879be44-41d3-11e9-b77e-2fe6faad674d.html,Sports
+2019-03-18, http://www.ohio.com/sports/20190311/hall-of-famer-ed-reed-ex-raven-confesses-his-love-for-cleveland/1,Sports
+2019-03-18, https://fox8.com/2019/03/13/can-i-stay-at-your-place-odell-beckham-jr-jokes-with-lebron-james/,Sports
+2019-03-18, https://fox8.com/2019/03/13/former-lsu-teammates-odell-beckham-jr-jarvis-landry-to-reunite-in-cleveland/,Sports
+2019-03-18, https://wreg.com/2019/03/16/manziel-signs-with-new-alliance-league-will-join-memphis/,Sports
+2019-03-18, https://fox13now.com/2019/03/03/emotions-run-high-in-hallways-after-usu-aggies-knock-off-highly-ranked-nevada-wolfpack/,Sports
+2019-03-18, https://www.westernmassnews.com/news/belchertown-hockey-team-pays-tribute-to-fallen-teammate-before-playoff/article_646a1048-412f-11e9-b7c7-23d100e3bc72.html,Sports
+2019-03-18, https://fox8.com/2019/03/13/how-bout-them-browns-star-wide-receiver-odell-beckham-jr-traded-to-cleveland/,Sports
+2019-03-18, https://www.gastongazette.com/sports/20190311/who-were-gaston-countys-prep-baseball-and-softball-players-of-week,Sports
+2019-03-18, https://www.salon.com/2019/03/11/trump-international-golf-club-plaque-lists-president-as-2018-champ-for-a-tournament-he-didnt-play_partner/,Sports
+2019-03-18, https://fox8.com/2019/03/12/cleveland-browns-super-bowl-odds-just-increased-after-odell-beckham-jr-trade/,Sports
+2019-03-18, https://www.starnewsonline.com/foodanddining/20190304/winter-is-over-britts-donuts-announces-2019-opening-date,Sports
+2019-03-18, https://www.buckscountycouriertimes.com/obituaries/20190224/patrick-j-duffy-iii,Sports
+2019-03-18, https://www.wthr.com/article/operation-basketball-semi-state-scoreboard,Sports
+2019-03-18, https://kfor.com/2019/03/12/russell-westbrook-speaks-out-after-confrontation-with-utah-jazz-fan/,Sports
+2019-03-18, https://wgntv.com/2019/03/13/bears-make-it-official-and-release-kicker-cody-parkey/,Sports
+2019-03-18, https://www.fox5vegas.com/news/unlv-fires-head-basketball-coach-marvin-menzies/article_2d8c21bc-4772-11e9-9cd6-e32290cce5c8.html,Sports
+2019-03-18, https://fox8.com/2019/03/07/mlb-indians-announce-new-all-star-week-play-ball-park-for-fans-tickets-on-sale-now/,Sports
+2019-03-18, https://www.kctv5.com/sports/kansas_city_chiefs/chiefs-officially-welcome-the-honey-badger-to-kc/article_1689040c-4692-11e9-ab10-2bed37fb6d18.html,Sports
+2019-03-18, https://wgntv.com/2019/03/11/they-were-chicagos-first-basketball-champs-until-the-trophy-was-taken-away/,Sports
+2019-03-18, https://www.wthr.com/article/your-indy-500-tickets-are-mail,Sports
+2019-03-18, https://fox13now.com/2019/03/06/coach-who-went-from-the-end-zone-to-a-war-zone-surprises-his-students-and-athletes-at-northridge-high/,Sports
+2019-03-18, https://www.palmbeachpost.com/sports/20190317/nfl-free-agents-miami-dolphins-signing-quarterback-ryan-fitzpatrick,Sports
+2019-03-18, https://www.kctv5.com/sports/kansas_city_chiefs/chiefs-officially-ask-nfl-to-change-in-overtime-rules/article_5ae192b0-420d-11e9-b538-b76fd1939b01.html,Sports
+2019-03-18, https://wreg.com/2019/02/28/memphis-girls-rugby-team-featured-in-nike-documentary/,Sports
+2019-03-18, https://kfor.com/2019/03/02/state-championship-saturday-at-the-big-house/,Sports
+2019-03-18, https://fox8.com/2019/03/12/cleveland-browns-re-sign-wire-receiver-breshad-perriman-reports/,Sports
+2019-03-18, https://www.gadsdentimes.com/sports/20170529/glencoe-fisherman-lands-100-pound-catfish,Sports
+2019-03-18, https://fox8.com/2019/03/15/browns-kareem-hunt-suspended-for-8-games-over-conduct-policy-violations-apologizes-for-behavior/,Sports
+2019-03-18, https://www.kmov.com/news/eureka-student-becomes-first-female-to-make-the-school-s/article_519686e8-410e-11e9-97a2-d73b26732cca.html,Sports
+2019-03-18, https://fox8.com/2019/03/13/cleveland-t-shirt-companies-release-odell-beckham-jr-merchandise/,Sports
+2019-03-18, https://www.dailycomet.com/sports/20190306/local-teen-nabs-big-bass-in-golden-meadow,Sports
+2019-03-18, https://kfor.com/2019/03/01/watch-fans-show-their-support-for-historic-teams-from-small-oklahoma-town/,Sports
+2019-03-18, https://www.salon.com/2007/09/01/jewish_baseball/,Sports
+2019-03-18, https://www.palmbeachpost.com/sports/20190306/miami-dolphins-qb-jake-rudock-of-weston-excited-to-compete,Sports
+2019-03-18, https://wgntv.com/2018/08/30/wgn-tv-announces-2018-19-chicago-bulls-tv-schedule/,Sports
+2019-03-18, https://www.kctv5.com/sports/kansas_city_chiefs/the-honey-badger-is-heading-to-kc-as-chiefs-to/article_f0f68758-4459-11e9-b6b9-277dcb8f873c.html,Sports
+2019-03-18, https://www.westernmassnews.com/news/mgm-red-sox-partnership-to-bring-winter-weekend-to-springfield/article_bdee2c04-41ec-11e9-a22a-a74ab0a4d212.html,Sports
+2019-03-18, http://www.hutchnews.com/news/20181216/growing-spirit---brian-miller-returns-to-hutchinson-after-october-farming-accident,Sports
+2019-03-18, https://wgntv.com/2019/03/14/bears-signing-ha-ha-clinton-dix-to-a-one-year-contract-report/,Sports
+2019-03-18, https://www.foxcarolina.com/news/upstate-cheer-teams-take-home-the-triple-crown/article_d40550b4-438e-11e9-a3e3-4ffc91fd6d2a.html,Sports
+2019-03-18, https://www.kptv.com/woman-gets-a-college-football-scholarship-to-play-defense-on/article_8ad777c8-7761-572e-9190-3488b8dbb715.html,Sports
+2019-03-18, https://www.amestrib.com/sports/20190302/iowa-state-mens-basketball-steve-prohm-addresses-suspension-of-cameron-lard,Sports
+2019-03-18, https://kfor.com/2019/03/14/seiling-hunter-becomes-new-record-holder-with-massive-bull-elk/,Sports
+2019-03-18, https://www.wthr.com/article/devin-funchess-signs-1-year-deal-colts,Sports
+2019-03-18, https://www.kptv.com/news/oregon-state-eliminating-women-s-swimming-program-after-comprehensive-review/article_871ab442-3ecf-11e9-bf11-0be536267472.html,Sports
+2019-03-18, https://www.palmbeachpost.com/sports/20190315/ryan-tannehill-trade-miami-dolphins-starting-quarterback-sent-to-tennessee-titans,Sports
+2019-03-18, https://www.salon.com/2019/03/12/u-s-womens-soccer-gender-discrimination-suit-could-be-a-game-changer-for-equity-in-sports/,Sports
+2019-03-18, https://www.lubbockonline.com/news/20190307/wells-has-hand-in-all-aspects,Sports
+2019-03-18, https://www.palmbeachpost.com/sports/20190314/miami-dolphins-dont-cut-defensive-end-robert-quinn-instead-pay-roster-bonus,Sports
+2019-03-18, https://www.palmbeachpost.com/sports/20190301/its-march-already-whos-staying-whos-going-for-miami-dolphins,Sports
+2019-03-18, https://www.registerguard.com/news/20190310/former-churchill-star-lucas-wilson-lost-himself-but-found-home-at-lane-community-college,Sports
+2019-03-18, https://www.foxcarolina.com/news/two-upstate-cheer-teams-eyeing-triple-crown-titles-ahead-of/article_7845d846-4070-11e9-9794-27f73644f34c.html,Sports
+2019-03-18, https://www.kctv5.com/sports/kansas_city_chiefs/honey-badger-heading-to-kansas-city-as-chiefs-to-sign/article_f0f68758-4459-11e9-b6b9-277dcb8f873c.html,Sports
+2019-03-18, https://www.azfamily.com/sports/larry-fitzgerald-hosts-th-annual-football-camp-in-phoenix-march/article_83d9f28c-3f94-11e9-93e5-c3c577ce9c2f.html,Sports
+2019-03-18, https://www.kmov.com/news/disabled-illinois-veteran-has-specialized-bike-stolen-from-his-home/article_02fd8e20-444a-11e9-a1a6-0301bf63cf79.html,Sports
+2019-03-18, https://www.palmbeachpost.com/sports/20190303/honda-classic-keith-mitchell-tops-brooks-koepka-rickie-fowler-vijay-singh-to-win-his-first-career-pga-tour-title,Sports
+2019-03-18, http://wgntv.com/2018/01/06/frosty-feelings-browns-fans-protest-0-16-season-with-parade/,Sports
+2019-03-18, https://www.chieftain.com/sports/20190228/shannan-lane-leaving-pueblo-south-girls-basketball-after-unforgettable-career,Sports
+2019-03-18, https://www.foxcarolina.com/news/gov-mcmaster-carolina-panthers-considering-moving-operations-practice-facilities-to/article_4f4f936e-45ac-11e9-bfd2-efc0429795b5.html,Sports
+2019-03-18, https://www.buckeyextra.com/sports/20190311/ohio-state-mens-basketball-kaleb-wesson-will-return-from-suspension-to-play-in-big-ten-tournament,Sports
+2019-03-18, https://www.kctv5.com/news/ku-k-state-find-out-who-they-will-face-in/article_c9ffa3b8-4905-11e9-a041-1fdf37fd03fd.html,Sports
+2019-03-18, http://wgntv.com/2017/12/12/its-official-cubs-sign-brandon-morrow-drew-smyly-to-solidify-bullpen/,Sports
+2019-03-18, https://www.kctv5.com/sports/kansas_city_chiefs/kansas-city-chiefs-release-safety-eric-berry/article_09187ef2-45ce-11e9-a16f-ffe9984a3af4.html,Sports
+2019-03-18, https://www.foxcarolina.com/investigations/dispatch-chase-underway-heading-towards-wade-hampton/article_113fb916-46cc-11e9-8abb-93f4b234158f.html,Sports
+2019-03-18, https://fox8.com/2019/03/13/browns-get-deal-with-lb-adarius-taylor/,Sports
+2019-03-18, https://fox8.com/2019/03/08/browns-acquire-lb-olivier-vernon-in-trade-with-giants-reports/,Sports
+2019-03-18, https://fox8.com/2019/03/06/browns-release-linebacker-jamie-collins/,Sports
+2019-03-18, https://www.palmbeachpost.com/news/20190304/skateboarding-pro-reflects-on-growing-up-in-jupiter-eyes-olympics,Sports
+2019-03-18, https://fox8.com/2019/03/17/new-world-record-for-largest-kilt-race-set-in-cleveland-during-st-patricks-day-run/,Sports
+2019-03-18, https://www.buckeyextra.com/sports/20190304/plenty-of-changes-as-ryan-day-leads-ohio-state-into-spring-practice,Sports
+2019-03-18, https://www.cantonrep.com/sports/20190303/mckinely-grad-jamal-davis-shows-off-speed-at-nfl-combine,Sports
+2019-03-18, https://www.fox10tv.com/news/abraham-mitchell-donating-millions-to-new-south-alabama-football-stadium/article_09703680-46d5-11e9-a29c-477fcd8574f2.html,Sports
+2019-03-18, https://fox8.com/2019/03/13/theres-a-facebook-event-for-the-cleveland-browns-super-bowl-parade/,Sports
+2019-03-18, https://www.wthr.com/article/victor-oladipo-takes-first-steps-knee-surgery,Sports
+2019-03-18, https://wgntv.com/2019/03/15/bears-sign-former-falcons-wide-receiver-marvin-hall/,Sports
+2019-03-18, https://www.palmbeachpost.com/sports/20190312/nfl-free-agents-jawuan-james-gone-where-do-miami-dolphins-turn,Sports
+2019-03-18, https://www.pjstar.com/sports/20190302/peoria-native-shea-feehan-dismissed-from-evansville-basketball-team,Sports
+2019-03-18, http://wgntv.com/2018/05/05/white-sox-place-yoan-moncada-on-10-day-disabled-list/,Sports
+2019-03-18, https://www.ducksports.com/sports/20190312/oregon-ducks-offensive-coordinator-marcus-arroyo-made-adjustments-in-offseason,Sports
+2019-03-18, http://www.hutchnews.com/news/20190120/buhlers-justin-seuser-sees-highs-and-lows-as-athletic-director-referee,Sports
+2019-03-18, https://www.kctv5.com/sports/ku-presents-kevin-willmott-with-jersey/article_e9cbc938-42b6-11e9-9e37-c76f50fd0edd.html,Sports
+2019-03-18, https://www.telegram.com/news/20190301/nfl-draft-former-shepherd-hill-star-chris-lindstrom-makes-impact-at-nfl-scouting-combine,Sports
+2019-03-18, https://www.amestrib.com/sports/20190302/iowa-state-mens-basketball-cameron-lard-suspended-for-texas,Sports
